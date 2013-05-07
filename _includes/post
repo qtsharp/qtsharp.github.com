@@ -12,4 +12,7 @@
   <a class="author" href="http://github.com/{{ site.github }}">{{ site.github }}</a>
   <i class="icon-time"> </i> <a href="{{ post.url }}" class="date">{{ post.date | date_to_long_string }}</a>
 </p>
+
+<div class="content">
 {{ post_content }}
+</div>
