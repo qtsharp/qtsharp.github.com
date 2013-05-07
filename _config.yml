@@ -9,14 +9,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : QtSharp's Notes
-tagline: Site Tagline
+title : QtSharp
+#tagline: Site Tagline
 author :
   name : QtSharp
-  email : blah@email.test
+  #email : blah@email.test
   github : qtsharp
-  twitter : username
-  feedburner : feedname
+  #twitter : username
+  #feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
