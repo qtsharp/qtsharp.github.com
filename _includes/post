@@ -11,9 +11,6 @@
       <small>{{ page.date | date_to_long_string }}</small>
     </div>
 </h1>
-<p class="meta">
-  <a class="author" href="http://github.com/{{ site.github }}">{{ site.github }}</a>
-</p>
 
 <div class="content">
 {{ post_content }}
