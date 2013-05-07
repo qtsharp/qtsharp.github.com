@@ -9,4 +9,4 @@ title: 北斗导航系统
 
 </br></br></br></br></br></br>
 
-[文章地址](http://qtsharp.tk/2013/05/07/beidoudaohang/)
+[本文地址](http://qtsharp.tk/2013/05/07/beidoudaohang/)
